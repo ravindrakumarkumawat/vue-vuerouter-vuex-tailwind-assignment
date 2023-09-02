@@ -1,0 +1,26 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --theme-primary-font-color: #1E1E1E; /*#F0F0F0;*/
+  --theme-secondary-font-color: #828282;
+
+  --theme-line-separator: #F0F0F0; /*#232323*/;
+  --theme-border-color: #C8C8C8; /*#232323;*/
+
+  --theme-primary-font-size: 15px;
+  --theme-primary-line-height:22px;
+
+  --theme-secondary-font-size:13px;
+  --theme-secondary-line-height: 20px;
+
+  --theme-septenary-font-size: 11px;
+  --theme-senary-line-height: 18px;
+
+  --theme-primary-font-weight: 500;
+  --theme-secondary-font-weight: 400;
+
+  --theme-input-background: #153B44;
+}
